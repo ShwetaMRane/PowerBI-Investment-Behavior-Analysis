@@ -62,9 +62,4 @@ It is suitable for Data Analyst / Business Analyst roles.
 
 ---
 
-## 👩‍💻 Author
-**Shweta Rane**  
-- LinkedIn: *(add your link)*  
-- GitHub: *(your GitHub profile link)*
-# PowerBI-Investment-Behavior-Analysis
-End-to-end Power BI project analyzing investment behavior using interactive dashboards, DAX, and data visualization to derive actionable business insights.
+
